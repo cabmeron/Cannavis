@@ -1,4 +1,4 @@
-# *Cannavis*
+# *cannavis*
 #### Demonstrative Full Stack Web App for real time Marijuana Disease Classification (Bud / Leaf)
 #### [In collaboration with C. Cable](https://github.com/ConnorCable)
 ##### __Tech Stack__:
