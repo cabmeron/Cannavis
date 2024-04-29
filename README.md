@@ -1,5 +1,5 @@
 # *cannavis*
-#### Kush Consultant 1.0
+#### Kush Consultant 1.0 - Photo to Diseasiness 
 #### [C. Cable](https://github.com/ConnorCable)
 ##### __Tech Stack__:
 ###### * Front End: Nunya
