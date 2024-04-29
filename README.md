@@ -2,7 +2,7 @@
 #### Demonstrative Full Stack Web App for real time Marijuana Disease Classification (Bud / Leaf)
 #### [In collaboration with C. Cable](https://github.com/ConnorCable)
 ##### __Tech Stack__:
-###### * Front End: Ionic (React Native, Typescript)
+###### * Front End: Ionic (React, Typescript)
 ###### * Back End: Express.js (Serving to / from Azure Vision Model), Flask (Sci-Kit Trained Decision Tree)
 ###### * Azure Vision (Trained for disease classification via Kaggle Dataset)
 
