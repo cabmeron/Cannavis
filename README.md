@@ -9,5 +9,4 @@
   
 ------------------------------------------------------------------------------------
 
-![alt text](https://github.com/cabmeron/Cannavis/blob/main/imgs/results_view.png "Results View")
 ![alt text](https://github.com/cabmeron/Cannavis/blob/main/imgs/response.png "Server Response")
